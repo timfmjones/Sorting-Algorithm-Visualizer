@@ -1,0 +1,29 @@
+.array-container {
+    position: absolute;
+    left: 150px;
+    top: 100px;
+  }
+  
+  .array-bar {
+    width: 3px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+
+.button{
+  border-radius: 8px;
+  border: none;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  padding: 8px 12px;
+  margin: 4px;
+  text-align: center;
+  font-size: 16px;
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */ 
+.buttonReset {background-color: #555555;} /* Black */
