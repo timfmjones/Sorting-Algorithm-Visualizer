@@ -1,2 +1,2 @@
 React App
-Sorting ALorithm Visualizer by Tim Jones
+Sorting Algorithm Visualizer by Tim Jones
